@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Ingresa un numero"
+5
+1
+6
+number
+6
+1
+7
+residuo
+12
+number mod 2
+7
+0
+1
+26
+residuo = 0 and number > 0
+7
+0
+1
+26
+residuo = 0 and number < 0
+13
+4
+1
+29
+"El numero es par y negativo"
+13
+13
+4
+1
+29
+"El numero es par y positivo"
+13
+7
+0
+1
+27
+residuo != 0 and number > 0
+7
+0
+1
+27
+residuo != 0 and number < 0
+13
+4
+1
+31
+"El numero es impar y negativo"
+13
+13
+4
+1
+31
+"El numero es impar y positivo"
+13
+1
